@@ -28,4 +28,4 @@ module.exports = {
   verbose: false,
   testTimeout: 30000,
   setupFilesAfterEnv: ['<rootDir>/packages/shared/setupTests.ts'],
-}
+};
